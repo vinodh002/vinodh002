@@ -2,7 +2,7 @@
 
 ### 😊 Full Stack Developer
 
-With over 2.2 years of hands-on experience in full stack development and currently continuing in this field, I specialize in creating robust and scalable web applications. My expertise lies in building dynamic user interfaces with **React.js** and managing backend operations with **Node.js** and **MySQL**.
+With over 2.5 years of hands-on experience in full stack development and currently continuing in this field, I specialize in creating robust and scalable web applications. My expertise lies in building dynamic user interfaces with **React.js** and managing backend operations with **Node.js** and **MySQL**.
 
 ### 💡 What I Do
 
