@@ -18,7 +18,11 @@ With over 2.5 years of hands-on experience in full stack development and current
 ## 🌐 Live Project  
 
 Check out my latest live project hosted on Netlify:  
-**[Project Name](https://matching-cards-mem-game.netlify.app/)**  
+**[Matching Cards](https://matching-cards-mem-game.netlify.app/)**  
+**[Fetch Country](https://fetch-country-info.netlify.app/)**  
+**[Forecast Weather](https://forecast-api.netlify.app/)**  
+**[rock Paper Scissors](https://stone-ppr-scissor.netlify.app/)**  
+**[Guess My Number](https://can-u-guess-me.netlify.app/)**  
 _A brief description of your project_ (e.g., "An interactive Rock Paper Scissors game built with React.").  
 
 ---
