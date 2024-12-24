@@ -22,8 +22,7 @@ Check out my latest live project hosted on Netlify:
 **[Fetch Country](https://fetch-country-info.netlify.app/)**  
 **[Forecast Weather](https://forecast-api.netlify.app/)**  
 **[rock Paper Scissors](https://stone-ppr-scissor.netlify.app/)**  
-**[Guess My Number](https://can-u-guess-me.netlify.app/)**  
-_A brief description of your project_ (e.g., "An interactive Rock Paper Scissors game built with React.").  
+**[Guess My Number](https://can-u-guess-me.netlify.app/)**   
 
 ---
 
