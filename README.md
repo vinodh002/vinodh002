@@ -1,42 +1,97 @@
-# 👋 Hi, I'm Vinodh Kumar  
+# 👋 Hi, I'm Vinodh Kumar
 
-### 😊 Full Stack Developer  
+A passionate Full Stack Developer from India
 
-With over 2.9 years of hands-on experience in full stack development and currently continuing in this field, I specialize in creating robust and scalable web applications. My expertise lies in building dynamic user interfaces with **React.js** and managing backend operations with **Node.js** and **MySQL**.  
-
----
-
-## 💡 What I Do  
-
-- **Front-End Development**: Crafting responsive and intuitive UIs with React.js and modern web technologies.  
-- **Back-End Development**: Developing and maintaining server-side logic using Node.js, Express, and database management with MySQL.  
-- **API Development**: Designing and integrating RESTful APIs for seamless communication between client and server.  
-- **Mobile Development**: Building cross-platform mobile applications with React Native.  
+![Profile views](https://komarev.com/ghpvc/?username=vinodh002)
 
 ---
 
-## 🌐 Live Project  
-
-Check out my latest live project hosted on Netlify:  
-**[Matching Cards](https://matching-cards-mem-game.netlify.app/)**  
-**[Fetch Country](https://fetch-country-info.netlify.app/)**  
-**[Forecast Weather](https://forecast-api.netlify.app/)**  
-**[rock Paper Scissors](https://stone-ppr-scissor.netlify.app/)**  
-**[Guess My Number](https://can-u-guess-me.netlify.app/)**   
+### 📫 How to reach me  
+[Email: kvinodh102@gmail.com](mailto:kvinodh102@gmail.com)
 
 ---
 
-## 💞️ Looking to Collaborate  
-
-I'm currently looking to collaborate on **React.js** projects, whether it's enhancing front-end experiences, optimizing performance, or building new features from scratch. If you have a project that could use a passionate and detail-oriented developer, let's connect!  
+⚡ **Fun fact:** I love turning caffeine into code ☕💻
 
 ---
 
-## 📫 How to Reach Me  
+## Languages and Tools  
 
-- **LinkedIn**: [Vinodh Kumar](https://www.linkedin.com/in/vinodhkumar102/)  
-- **Email**: [kvinodh102@gmail.com](mailto:kvinodh102@gmail.com)  
+<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" /> 
+<img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" /> 
+<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" /> 
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" /> 
+<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" /> 
+<img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" /> 
+<img src="https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=black" />
 
 ---
 
-✨ Let's build something amazing together!
+### Most Used Languages
+
+| Language        | Usage      |
+|-----------------|-----------|
+| JavaScript      | Majority   |
+| HTML            | High       |
+| CSS             | High       |
+| React.js        | Major      |
+| Node.js         | Major      |
+| MySQL           | Notable    |
+| TypeScript      | Growing    |
+| React Native    | Emerging   |
+
+---
+
+### Vinodh Kumar's GitHub Stats
+
+- **Total Stars Earned:** See profile for latest
+- **Total Commits:** See profile for latest
+- **Total PRs:** See profile for latest
+- **Total Issues:** See profile for latest
+- **Current Streak:** See contribution graph
+- **Longest Streak:** See contribution graph
+
+---
+
+## Contribution Activity
+
+| Total Contributions | Longest Streak | Current Streak  |
+|---------------------|---------------|-----------------|
+| 207+                | 6+            | 🟠              |
+
+---
+
+## 💡 What I Do
+
+- **Front-End Development:** Responsive UIs with React.js, HTML, CSS
+- **Back-End Development:** APIs & Logic in Node.js, Express, MySQL
+- **API Development:** RESTful solutions connecting client & server
+- **Mobile Development:** React Native cross-platform apps
+
+---
+
+### 🌐 Live Projects
+
+- Matching Cards
+- Fetch Country
+- Forecast Weather
+- Rock Paper Scissors
+- Guess My Number
+
+---
+
+### 📚 Popular Repositories
+
+- Rock-Paper-Scissors-Game
+- ACube
+- tech-mysore
+- React-Tech
+- vinodh002
+- Test-Api-Dog
+
+---
+
+💬 I'm open to collaborating on cool React.js projects!  
+Let's build something amazing together!
