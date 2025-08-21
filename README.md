@@ -44,22 +44,17 @@ A passionate Full Stack Developer from India
 
 ---
 
-### Vinodh Kumar's GitHub Stats
+## 📈 GitHub Stats
 
-- **Total Stars Earned:** See profile for latest
-- **Total Commits:** See profile for latest
-- **Total PRs:** See profile for latest
-- **Total Issues:** See profile for latest
-- **Current Streak:** See contribution graph
-- **Longest Streak:** See contribution graph
+![Vinodh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinodh002&show_icons=true&hide_title=true&count_private=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinodh002&layout=compact&theme=default)
 
 ---
 
-## Contribution Activity
+## 🔥 Contribution Streak
 
-| Total Contributions | Longest Streak | Current Streak  |
-|---------------------|---------------|-----------------|
-| 207+                | 6+            | 🟠              |
+[![GitHub Streak](https://streak-stats.demolab.com/?user=vinodh002&theme=default)](https://git.io/streak-stats)
 
 ---
 
